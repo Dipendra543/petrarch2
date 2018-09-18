@@ -98,7 +98,7 @@ You can get more information using:
 
 **StanfordNLP:**
 
-There was a time where Stanford CoreNLP was incorporated directly into PETRARCH-1, but due
+There was time where Stanford CoreNLP was incorporated directly into PETRARCH-1, but due
 to operating system differences that we don't want to deal with, this is no longer the case.
 We recommend [this dockerized API](http://github.com/chilland/ccnlp) if you need to incorporate
 a CoreNLP parse into a script, or the Stanford website has a nice [web app](http://nlp.stanford.edu:8080/corenlp/),
